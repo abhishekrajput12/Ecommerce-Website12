@@ -43,5 +43,4 @@ Ecommerce-Website12 is a fully functional e-commerce web application built using
 
 ---
 
-## 📁 Project Structure
 
